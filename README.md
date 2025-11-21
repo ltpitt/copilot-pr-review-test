@@ -20,6 +20,7 @@ See [AGENTS.md](AGENTS.md) for the original complete test plan.
 - `AGENTS.md` - Original detailed test plan for validating Copilot code review
 - `MANUAL_STEPS.md` - Detailed manual steps to complete remaining test phases (Steps 3-9)
 - `QUICK_REFERENCE.md` - Quick checklist version of manual steps
+- `API_LIMITATIONS.md` - Technical explanation of why Steps 3-9 cannot be automated
 
 ## ℹ️ Implementation Status
 
