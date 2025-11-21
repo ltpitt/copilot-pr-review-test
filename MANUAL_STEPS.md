@@ -40,7 +40,7 @@ As a user, I want to multiply two numbers, so that I can perform basic arithmeti
 ```
 
 3. Click "Submit new issue"
-4. **Note the issue number** (should be Issue #5 or similar)
+4. **Note the issue number** (e.g., #5 - will depend on existing issues in your repository)
 
 ---
 
